@@ -1,0 +1,127 @@
+Desafios Iniciais Java e JavaScript - Carrefour Web Developer 1/3 - 
+
+Multiplicação Simples:
+
+Desafio:
+Você receberá dois valores inteiros. Faça a leitura e em seguidaa calcule o produto entre estes dois valores. Atribua esta operação à variável PROD, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).
+
+Entrada:
+A entrada contém dois valores inteiros.
+
+Saída:
+Exiba a variável PROD conforme exemplo abaixo, tendo obrigatoriamente um espaço em branco antes e depois da igualdade.
+
+Exemplos de Entrada          Exemplos de saída
+   3                            PROD = 27
+   9
+
+
+  -30                           PROD = -300
+   10
+
+
+   0                            prod = 0
+   9
+
+Código Java:
+import java.util.Scanner;
+
+public class Main {
+	public static void main(Strig[] args) {
+	Scanner leitor = new Scanner(System.in);//Faz a leitura
+
+	int A, B, PROD;
+
+	A = leitor.nextInt();//Obtem os dados de entrada
+	B = leitor.nextInt();//Obtem os dados de entrada
+
+	PROD = A * B; //Implemente o código que representa a multiplicação
+
+    System.out.println("PROD = " + PROD);
+
+    leitor.close();
+
+    }
+}
+
+==============================
+Desafio:
+Leia quatro valores inteiros A, B, C e D. A seguir, calcule e mostre a diferença do produto de A e B pelo produto de C e D segundo a fórmula: DIFERENCA = (A*B - C*D). 
+
+Entrada:
+O Arquivo de entrada contém 4 valores inteiros:
+
+Saída:
+Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
+
+Exemplos de Entrada          Exemplos de saída
+   5                            DIFERENCA = -26
+   6
+   7
+   8
+
+   0                            DIFERENCA = -56
+   0
+   7
+   8
+
+   5                            DIFERENCA = 86
+   6
+  -7
+
+Código Java:
+import java.io.IOException;
+import java.util.Scanner;
+
+public class Desafio {
+
+   public static void main(Strig[] args) throws IOException {
+   Scanner leitor = new Scanner(System.in);
+
+   int a = leitor.nextInt();
+   int b = leitor.nextInt();
+   int c = leitor.nextInt();
+   int d = leitor.nextInt();
+
+   //Complete o código
+   System.out.println("//complete);
+
+    }
+}
+
+===============================
+===============================
+Desafio de código - Entendendo na Prática com JavaScript
+Desafio:
+Leia dois valores inteiros identificados como variáveis A e B. Calcule a soma entre elas e chame essa variável de SOMA. 
+
+Entrada:
+O Arquivo de entrada contém 2 valores inteiros.
+
+Saída:
+Imprima a variável SOMA com todas as letras maiúsculas, inserindo um espaço em branco antes e depois do simbolo de igualdade, seguido pelo valor correspondente à soma de A e B.
+
+Exemplos de Entrada          Exemplos de saída
+   30                           SOMA = 40
+   10
+
+
+   -30                          SOMA = -20
+    10
+
+    0                           SOMA = 0
+    0
+
+Código JavaScript:
+//A função "gets" é implementada dentro do sistema para ler //as entradas (inputs) dos dados;
+//A função "print" imprime a saída (outputs) de dados e já //pula uma linha ("\n").
+//Abaixo segue um exemplo de código que você pode ou não //utilizar.
+
+let A = parseInt(gets()); 
+let B = parseInt(gets());
+
+//TODO: Complete os espaços em branco com uma possível solução para o desafio.
+
+let SOMA = A + B;
+print("SOMA = "+SOMA);
+

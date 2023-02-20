@@ -1,0 +1,9 @@
+Desafios de Projetos Iniciais GitHub
+Ionic: Construindo uma Pokedex usando a API do Pokemon
+
+Descrição do Desafio
+O Ionic é um framework JS utilizado para desenvolvimento de apps multiplataforma (Android e IOS). Conte com um vasto ecossistema e suporte a Angular, Vue, React ou JS(Vanila). Além disso, o Ionic possui um arsenal de componentes visuais, plugins nativos(Cordova ou Capacitor) e claro. uma documentação excelente.
+
+Neste desafio, você deverá replicar (e porque não, melhorar) este projeto prático, criando um repositório próprio e, com isso, aumentando ainda mais seu portifólio de projetos no GitHub.
+
+Dica: Você pode dar um "fork" no repositório do GitHub para organizar suas alterações e evoluções mantendo uma referência direta ao código original.

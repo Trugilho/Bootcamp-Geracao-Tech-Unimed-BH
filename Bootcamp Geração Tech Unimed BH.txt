@@ -1,0 +1,115 @@
+Bootcamp Geração Tech Unimed BH - Fullstack
+120 horas de Bootcamp - Duração até o dia 24/07/2022.
+
+O Programa Geração Tech Unimed-BH é um programa que oferece bootcamps gratuitos. Nesta primeira edição, o bootcamp ofertado formará novos desenvolvedores fullstack nas tecnologias Javascript, MySQL, Angular e .NET. Durante o bootcamp, você irá desenvolver projetos práticos, participar de mentorias ao vivo e exclusivas, obter seu certificado e ainda complementar seu portfólio. Ao final do programa, a Unimed-BH espera contratar os melhores perfis para atuar na região de Belo Horizonte.
+
+Objetivo geral: 
+Parte 1: Bootcamp DIO: Metodologia de ensino.
+Principais tipos de conteúdos educacionais:
+- Cursos: Conceitos essenciais e fundamentação teórica.
+- Mentorias: Imersão tecnológica/cultural interativa.
+- Desafios de Código: Lógica e pensamento computacional.
+- Desafios de Projeto: Prática e criação de portfólio.
+
+Parte 2: Desafios de Código Entendendo na prática.
+Têm como objetivo desenvolver o pensamento computacional e raciocínio lógico durante sua jornada, capacidade de resolver problemas de lógica. Essas habilidades são essenciais para o aumento da sua capacidade de resolver problemas(uma boa definição para aumento de senioridade).
+
+Parte 3: Desafios de Projeto Entendendo na prática.
+Têm como objetivo promover a criação de um portifólio de projetos consistente no GitHub(website onde podemos deixar os códigos fontes de nossos projeto para outros DEVs visualizarem). Essa é uma prática importante na área de TI, a qual pode destacá-lo em uma entrevista técnica.
+
+Parte 4: Dicas Finais e Conclusão.
+A conclusão de um bootcamp coloca o seu perfil em destaque para as empresas parceiras da DIO. Nesse sentido, nossas dicas de ouro são:
+- Não disista, assuma esse compromisso consigo mesmo;
+- Participe ativamente do Fórum, Room e Mentorias;
+Mantenha seu currículo/perfil atualizado na DIO;
+
+#ContratoDeCompromisso
+
+
+Sobre a DIO
+LinkedIn Renan: https://www.linkedin.com/in/renanoliv...
+LinkedIn Venilton: https://www.linkedin.com/in/falvojr/
+LinkedIn Camila: https://www.linkedin.com/in/cami-la/
+Ministrado por especialistas
+
+Hired: Playlista de pessoas que foram contratadas através da DIO
+
+fundamental: Autonomia(seu ritmo), protagonismo e gestão do tempo. Compromisso com foco, resiliência e persistência. #contratodecompromisso
+
+
+Após a inscrição vai haver ainda uma seleção?
+
+Vai haver aula de mentoria com a unimed dia 30/05/22
+
+Sobre o bootcamp Unimed BH:
+- Duração até o dia 24/07/2022
+- Atividades práticas:
+- Questionários para validar o conhecimento.
+- Desafios de linguagens(códigos) para treinar
+- Desafios de projetos para entregar um projeto, com acompanhamento de mentor(instrutor).
+- Forum(dúvidas e sugestões, artigos) 
+- Rooms(Sala de bate-papo com pessoas participantes do programa)
+- Aulas assincronas(ficam gravadas para rever)
+- Aulas sincronas(ficam gravadas para rever)
+- 127 horas de conteúdo
+- Micro learning(Dentro dos módulos, as aulas são curtas(+-15 min)), procurar fazer os cursos na ordem disponibilizada.
+
+Mentorias podemos contqtar os mentores via linkedin
+- Mentoria 1 Carreiras Tech na Unimed BH:
+- Mentoria 2 Introdução ao banco de dados ORACLE:
+- Mentoria 3 Melhorias práticas com API Rest e Restful:
+- Mentoria 4 Como ser o próximo contratado pela Unimed BH: 
+
+Práticas da vida real no bootcamp:
+-Mercado de trabalho
+-Atuação profissional
+-Geração de Mindset
+-Habilidades de soft skill
+-Desenvolvimento de postura
+
+
+Tecnologias deste bootcamp:
+Fullstack
+Front-end e Back-end
+Conceito de APIs
+Front-end pede, a API leva para o Back-end que atende e retorna via API para o Front-end
+MySQL
+Dotnet Fraime
+HTML
+CSS
+Git
+JS
+C Sharp
+Visual Code
+...
+
+Metodologia do bootcamp:
+-Desenvolvimento de projetos
+-Experiência de aprendizagem gamificada
+-Sair da zona de conforto
+-Produções reais e imersivas (prazos reais)
+-Competição e desafios práticos de código
+-Comunidade colaborativa
+
+Terminado o Bootcamp, atualizar o curriculo
+
+Manter o Linkedin atualizado, com todos os projetos e conhecimentos apreendidos.
+
+
+LINKS ÚTEIS:
+Central de ajuda - Dúvidas frequentes e/ou bugs;
+Fórum e Artigos - Dicas, curiosidades e temas em alta;
+Rooms - Dúvidas técnicas relacionadas a um bootcamp;
+LiveCodings - Imersões práticas avançadas.
+
+Recrutador UNIMED BH: Marco Possa
+Linkedin:
+https://www.linkedin.com/in/marcopossa/
+
+
+
+
+
+
+
+
